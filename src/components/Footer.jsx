@@ -3,6 +3,7 @@ import { footerLinks } from '../constants'
 /**
  * Footer Component.
  * comment 추가
+ * comment 추가
  * @returns 
  */
 const Footer = () => {
